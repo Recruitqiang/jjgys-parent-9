@@ -1,0 +1,7 @@
+# Project exclude paths
+/common/common-log/target/
+/common/common-util/target/
+/common/service-util/target/
+/common/spring-security/target/
+/model/target/
+/service-system/target/

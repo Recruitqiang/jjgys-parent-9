@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: e-iceblue:spire.office.free:5.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../repository/e-iceblue/spire.office.free/5.3.1/spire.office.free-5.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../repository/e-iceblue/spire.office.free/5.3.1/spire.office.free-5.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../repository/e-iceblue/spire.office.free/5.3.1/spire.office.free-5.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
